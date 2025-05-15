@@ -1,5 +1,3 @@
-Here’s a professional and complete `README.md` for your DeepFake Detection project using EfficientDet and ViT, including usage instructions, dataset details, and evaluation results:
-
 ---
 
 # 🕵️‍♂️ DeepFake Detection using EfficientDet + Vision Transformer + Hybrid Mathematical Models

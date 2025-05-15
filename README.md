@@ -2,7 +2,6 @@ Here’s a professional and complete `README.md` for your DeepFake Detection pro
 
 ---
 
-```markdown
 # 🕵️‍♂️ DeepFake Detection using EfficientDet + Vision Transformer + Hybrid Mathematical Models
 
 This repository contains a **DeepFake detection pipeline** built using **EfficientDet (Backbone)**,  **Vision Transformer (ViT)**  and **Hybrid Mathematical Models**for global feature analysis. It uses the **CIFAKE** dataset, a synthetic dataset for real vs fake image classification.
@@ -20,7 +19,7 @@ This repository contains a **DeepFake detection pipeline** built using **Efficie
 
 ## 📦 Project Structure
 
-```
+
 
 DeepFakeV1/
 │
@@ -35,7 +34,6 @@ DeepFakeV1/
 ├── hybrid\_model\_v10.pth    # Trained model weights
 └── README.md              # Project documentation
 
-````
 
 
 ## 🚀 Getting Started

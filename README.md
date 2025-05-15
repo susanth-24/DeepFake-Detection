@@ -101,7 +101,7 @@ streamlit run app.py
 
 We use the **CIFAKE dataset**, a synthetic deepfake image dataset with real and fake categories.
 
-You can download it from [here](https://github.com/peterwang512/CIFAKE) and structure it like:
+You can download it from [here](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images) and structure it like:
 
 ```
 dataset/

@@ -96,7 +96,6 @@ streamlit run app.py
 ```
 
 * Upload an image and it will classify it as **Real** or **Fake** using the trained model.
-* Includes LGA overlay + ViT inference.
 
 ---
 
@@ -128,7 +127,7 @@ Update your dataloader paths accordingly.
 * Uses **EfficientNet-B0** for hybrid CNN features
 * LGA overlays applied to emphasize local tampering cues
 * Global ViT layers extract spatial dependencies
-* Final sigmoid classifier distinguishes between real and fake
+* Final classifier distinguishes between real and fake
 
 
 

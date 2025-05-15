@@ -145,8 +145,8 @@ This project was developed as part of the **CS512: Artificial Intelligence** cou
 | Name                       | Roll Number     |
 |----------------------------|-----------------|
 | **Sanam Sai Susanth Reddy** | 2021CHB1053     |
-| **Nikhil Garg**             | 2021CSB1114     |
 | **Khushboo Gupta**          | 2021CSB1105     |
+| **Nikhil Garg**             | 2021CSB1114     |
 | **Abhinav Adarsh**          | 2021MEB1261     |
 
 ---

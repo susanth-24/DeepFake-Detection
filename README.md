@@ -19,21 +19,19 @@ This repository contains a **DeepFake detection pipeline** built using **Efficie
 
 ## 📦 Project Structure
 
-
-
+```bash
 DeepFakeV1/
-│
-├── train.py               # Training script
-├── eval.py                # Evaluation script
-├── app.py                 # Streamlit web app
+├── train.py                # Training script
+├── eval.py                 # Evaluation script
+├── app.py                  # Streamlit web app
 ├── model/
-│   └── model.py           # Model definition (EfficientViT)
-├── overlay.py             # LGA overlay preprocessing
+│   └── model.py            # Model definition (EfficientViT)
+├── overlay.py              # LGA overlay preprocessing
 ├── configs/
-│   └── arch.yaml          # Architecture configuration
-├── hybrid\_model\_v10.pth    # Trained model weights
-└── README.md              # Project documentation
-
+│   └── arch.yaml           # Architecture configuration
+├── hybrid_model_v10.pth    # Trained model weights
+└── README.md               # Project documentation
+```
 
 
 ## 🚀 Getting Started
@@ -134,10 +132,22 @@ Update your dataloader paths accordingly.
 
 
 
-This project is a part of CS512 Artificial Intelligence as a coursework
-Team:
-sanam sai susanth reddy -2021CHB1053
-Nikhil Garg -2021CSB1114
-Khushboo Gupta -2021CSB1105
-Abhinav Adarsh -2021MEB1261
+---
+
+## 📚 Course Information
+
+This project was developed as part of the **CS512: Artificial Intelligence** coursework at **IIT Ropar**.
+
+---
+
+## 👨‍💻 Team Members
+
+| Name                       | Roll Number     |
+|----------------------------|-----------------|
+| **Sanam Sai Susanth Reddy** | 2021CHB1053     |
+| **Nikhil Garg**             | 2021CSB1114     |
+| **Khushboo Gupta**          | 2021CSB1105     |
+| **Abhinav Adarsh**          | 2021MEB1261     |
+
+---
 
